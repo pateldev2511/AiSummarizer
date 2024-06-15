@@ -55,10 +55,6 @@ npm run build
 
 This will create an optimized build of your app in the `dist` directory.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Tech Stack
 
 **The Stack:** React, Redux, TailwindCSS
