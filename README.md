@@ -55,10 +55,6 @@ npm run build
 
 This will create an optimized build of your app in the `dist` directory.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
