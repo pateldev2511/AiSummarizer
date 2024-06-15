@@ -66,3 +66,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Tech Stack
 
 **The Stack:** React, Redux, TailwindCSS
+
+## Screenshot
+
+<img width="1188" alt="image" src="https://github.com/pateldev2511/AiSummarizer/assets/57655776/6c5a5040-ad3c-4b87-b8f8-57ce07f71b71">
+
